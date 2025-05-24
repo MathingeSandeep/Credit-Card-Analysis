@@ -1,4 +1,4 @@
-# Credit-Card-Analysis
+# Credit Card Customer Behavior & Revenue Analysis                                                                                                              
 Credit Card Analysis Power BI Dashboard
 
 This project presents an end-to-end data analysis using Power BI on a credit card transaction dataset. The goal is to uncover valuable business insights regarding customer behavior, revenue contribution, spending trends, and credit product performance across different segments.
