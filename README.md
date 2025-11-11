@@ -1,5 +1,6 @@
-# Credit Card Customer Behavior & Revenue Analysis                                                                                                              
-Credit Card Analysis Power BI Dashboard
+# Credit Card Customer Behavior & Revenue Analysis
+
+## Credit Card Analysis Power BI Dashboard
 
 This project presents an end-to-end data analysis using Power BI on a credit card transaction dataset. The goal is to uncover valuable business insights regarding customer behavior, revenue contribution, spending trends, and credit product performance across different segments.
 
@@ -17,7 +18,7 @@ This project presents an end-to-end data analysis using Power BI on a credit car
 
 ## Dataset Description
 
-  Includes details like:
+Includes details like:
 
 - Card Category (Blue, Gold, Silver, Platinum)
 
@@ -29,33 +30,29 @@ This project presents an end-to-end data analysis using Power BI on a credit car
 
 ## Steps Followed
 
-- Data Collection
+- Data Collection: Received raw dataset in CSV format
 
-Received raw dataset in CSV format
+- Data Transformation & Cleaning: Used Power Query for additional shaping
 
-- Data Transformation & Cleaning
+- Formatted date and time fields
 
-Used Power Query for additional shaping
-
-Formatted date and time fields
-
-Imported and stored in PostgreSQL
+- Imported and stored in PostgreSQL
 
 - Data Import into Power BI
 
-Connected PostgreSQL to Power BI via native connector
+- Connected PostgreSQL to Power BI via native connector
 
-Loaded cleaned tables for analysis
+- Loaded cleaned tables for analysis
 
-Created DAX measures (Total Revenue, Interest Earned, Count, CAC)
+- Created DAX measures (Total Revenue, Interest Earned, Count, CAC)
 
-- Dashboard Creation
+### Dashboard Creation
 
 Developed two separate dashboards to analyze:
 
--- Transaction Performance
+- Transaction Performance
 
--- Customer Segmentation & Demographics
+- Customer Segmentation & Demographics
 
 ## Dashboard 1: Credit Card Transaction Report
 
@@ -98,7 +95,7 @@ Understand the customer demographics driving revenue. This includes age, marital
 
 ### Key Visuals:
 
-_ Revenue by: Age Group, Gender, Education Level, Income Group, Marital Status, Dependents
+- Revenue by: Age Group, Gender, Education Level, Income Group, Marital Status, Dependents
 - Top 5 Revenue States
 - Revenue by Customer Job
 - Weekly Revenue Trends by Gender
