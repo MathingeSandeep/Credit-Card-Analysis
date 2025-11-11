@@ -6,15 +6,15 @@ This project presents an end-to-end data analysis using Power BI on a credit car
 
 ## Tools & Technologies Used
 
-- Power BI Desktop – Visualization and dashboard development
+- **Power BI Desktop** – Visualization and dashboard development
 
-- Power Query Editor – Data transformation and shaping
+- **Power Query Editor** – Data transformation and shaping
 
-- DAX (Data Analysis Expressions) – Custom calculations, KPIs
+- **DAX** (Data Analysis Expressions) – Custom calculations, KPIs
 
-- PostgreSQL – Data querying, importing
+- **PostgreSQL** – Data querying, importing
 
-- Excel – Source format used for data extraction & preview
+- **Excel** – Source format used for data extraction & preview
 
 ## Dataset Description
 
@@ -30,9 +30,9 @@ Includes details like:
 
 ## Steps Followed
 
-- Data Collection: Received raw dataset in CSV format
+- **Data Collection:** Received raw dataset in CSV format
 
-- Data Transformation & Cleaning: Used Power Query for additional shaping
+- **Data Transformation & Cleaning:** Used Power Query for additional shaping
 
 - Formatted date and time fields
 
@@ -62,10 +62,10 @@ Analyze transaction performance across various customer and product segments to 
 
 ### KPIs & Visuals:
 
-- Revenue: 57M
-- Interest Earned: 7.98M
-- Transaction Amount: 46M
-- Customer Count: 667K
+- **Revenue:** 57M
+- **Interest Earned:** 7.98M
+- **Transaction Amount:** 46M
+- **Customer Count:** 667K
 
 ### Key Visuals:
 
@@ -88,14 +88,14 @@ Understand the customer demographics driving revenue. This includes age, marital
 
 ### KPIs & Visuals:
 
-- Total Revenue: 57M
-- Total Income: 588M
-- Average Age: 46
-- Average Customer Rating: 3
+- **Total Revenue:** 57M
+- **Total Income:** 588M
+- **Average Age:** 46
+- **Average Customer Rating:** 3
 
 ### Key Visuals:
 
-- Revenue by: Age Group, Gender, Education Level, Income Group, Marital Status, Dependents
+- **Revenue by:** Age Group, Gender, Education Level, Income Group, Marital Status, Dependents
 - Top 5 Revenue States
 - Revenue by Customer Job
 - Weekly Revenue Trends by Gender
